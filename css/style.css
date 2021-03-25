@@ -185,12 +185,12 @@ input[type="password"] {
 #prod-list {
   margin-top: 20px;
   display: grid;
-  grid-template-rows: 2fr 8fr;
+  grid-template-rows: 2fr 7fr;
   align-items: center;
 }
 
 .prod-list-heading-area {
-  padding: 20px;
+  padding: 40px;
   border-radius: 15px;
 }
 
